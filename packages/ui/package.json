@@ -1,0 +1,8 @@
+{
+  "name": "@workspace/ui",
+  "version": "0.0.0",
+  "description": "ui components",
+  "type": "module",
+  "private":true,
+  "packageManager": "pnpm@10.11.1"
+}
